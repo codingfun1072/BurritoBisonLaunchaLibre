@@ -1,7 +1,7 @@
 {
 "companyName": "Juicy Beast Studio",
 "productName": "Burrito Bison",
-"dataUrl": "https://github.com/codingfun1072/BurritoBisonLaunchaLibre/raw/gh-pages/Build/Web.data.unityweb",
+"dataUrl": "https://raw.githubusercontent.com/codingfun1072/BurritoBisonLaunchaLibre/gh-pages/Build/Web.data.unityweb",
 "asmCodeUrl": "Web.asm.code.unityweb",
 "asmMemoryUrl": "Web.asm.memory.unityweb",
 "asmFrameworkUrl": "Web.asm.framework.unityweb",
